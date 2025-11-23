@@ -1,0 +1,11 @@
+Plagiarism Detector Report
+==========================
+Unique meaningful words in essay1: 5
+Unique meaningful words in essay2: 5
+Common meaningful words (count): 3
+Plagiarism (Jaccard) percentage: 42.86%
+
+Common words:
+essay
+programming
+this
